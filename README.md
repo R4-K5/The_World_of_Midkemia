@@ -1,9 +1,4 @@
----
-title: "The World of Midkemia: Quick Start Player's Guide"
-output: html_document
----
-
-# The World of Midkemia
+Alt-H1 The World of Midkemia
 ---
 Welcome, adventurer, to Midkemia, a world of ancient magic, sprawling kingdoms, shadowy intrigues, and epic tales. This guide is designed to prepare you for "The World of Midkemia" a campaign set in the aftermath of the great Riftwar, a time of uneasy peace and stirring shadows. Herein, you will find information about the world, its gods, and unique options to shape your character for the adventures that lie ahead.
 ---
