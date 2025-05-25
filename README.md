@@ -1,4 +1,4 @@
-Alt-H1 The World of Midkemia
+H1 The World of Midkemia
 ---
 Welcome, adventurer, to Midkemia, a world of ancient magic, sprawling kingdoms, shadowy intrigues, and epic tales. This guide is designed to prepare you for "The World of Midkemia" a campaign set in the aftermath of the great Riftwar, a time of uneasy peace and stirring shadows. Herein, you will find information about the world, its gods, and unique options to shape your character for the adventures that lie ahead.
 ---
@@ -481,7 +481,7 @@ As an action, you can expend 5 Ki points to achieve "The Unblinking Gaze" for 1 
 This state of perfect focus ends early if you are knocked unconscious. Once you use this feature, you cannot use it again until you finish a long rest.
 
 ---
-### ***PALADIN**
+### **PALADIN**
 ### **Paladin Oath: Oath of Judgment (Finalized)**
 *(Paladins sworn to Astalon, God of Justice and Retribution, who act as divine lawbringers and righteous arbiters.)*
 
@@ -522,7 +522,7 @@ At 20th level, you can use your action to become an avatar of pure, divine judgm
     Once you use this feature, you can't use it again until you finish a long rest.
 
 ---
-### ***RANGER**
+### **RANGER**
 ### **Ranger Conclave: Rift Warden (Revised)**
 *(Rangers attuned to planar instability and Tsurani magical echoes, guardians of the thin places between worlds.)*
 
@@ -626,7 +626,8 @@ You have mastered the art of creating temporary conduits between locations. As a
 Once you create a portal using either option of this feature, you cannot do so again until you finish a long rest.
 
 ---
-### **Warlock Patron: The Unseen (Narlor theme - Revised)**
+### ***WARLOCK***
+### **Warlock Patron: The Forgotten**
 
 *(Your patron is an entity of profound secrecy and shadow, a servant or aspect of Narlor, the Unseen God...)*
 
@@ -671,6 +672,7 @@ Starting at 14th level:
 * Additionally, when you are in dim light or darkness, as a bonus action, you can teleport up to 60 feet to an unoccupied space you can see that is also in dim light or darkness. You then have advantage on the first melee attack you make before the end of the turn.
 
 ---
+### ***WIZARD***
 ### **Wizard Arcane Tradition: Tradition of the Loom**
 *(Disciples of the Tradition of the Loom see the Weave of magic not as a chaotic storm, but as an infinite array of shimmering threads...)*
 
