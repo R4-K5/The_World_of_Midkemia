@@ -592,40 +592,61 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 * **Contingency Plan:** When you are reduced to 0 hit points or are subjected to an effect that would incapacitate you against your will (such as being paralyzed, stunned, or petrified), you can use your reaction to instantly become invisible, teleport up to 60 feet to an unoccupied space you can see, and regain hit points equal to your Rogue level + your Charisma modifier. The invisibility lasts until the start of your next turn or until you attack or cast a spell. Once you use this feature, you can't use it again until you finish a long rest.
 
 ---
-### ***SORCERER***
-### **Sorcerous Origin: Tsurani Great One Bloodline (Refined)**
-*(Your innate magic stems from a connection to a Tsurani Great One, or perhaps exposure to the raw energies of Kelewan or the rifts between worlds. This power focuses on manipulating planar energies, travel, and a Tsurani sense of order or destiny.)*
+### **SORCERER**
+#### Sorcerous Origin: Echo of the Valheru 
 
-**Level 1: Great One Spells**
-You learn additional spells when you reach certain levels in this class, as shown on the Great One Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know.
-
-| Sorcerer Level | Spells                      |
-| :------------- | :-------------------------- |
-| 1st            | *Alarm, Shield* |
-| 3rd            | *Misty Step, Vortex Warp* |
-| 5th            | *Counterspell, Thunder Step* |
-| 7th            | *Dimension Door, Word of Recall* |
-| 9th            | *Teleportation Circle, Gate* |
-
-**Level 1: Path Affinity**
-Your connection to Tsurani magical principles grants you insight and resilience. You gain proficiency in the **Arcana** skill.
-Additionally, you learn the **Natal** language (the language of Tsurani magic). When you make an Intelligence (Arcana) check related to Tsurani magic, rifts, or planar travel, you can add your Charisma modifier to the check.
-
-**Level 6: Rift Current**
-Your attunement to planar energies allows you to subtly manipulate the flow of reality around a d20 roll. When a creature you can see within 60 feet of you makes an attack roll, ability check, or saving throw, you can use your reaction and spend 1 sorcery point to impose either advantage or disadvantage (your choice) on that roll.
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-**Level 14: Planar Ward**
-As an action, you can expend 1 or more sorcery points to weave a protective ward of Tsurani energy around yourself or another creature you can touch. The ward lasts for 1 hour or until it is expended. The ward has hit points equal to **7 times the number of sorcery points spent**. When the warded creature takes damage, the ward takes the damage instead. If this damage reduces the ward to 0 hit points, the warded creature takes any remaining damage.
-While the ward has hit points remaining, the warded creature has resistance to force damage.
-
-**Level 18: Rift Weaver**
-You have mastered the art of creating temporary conduits between locations. As an action, you can expend sorcery points to create a shimmering, two-way portal that lasts for 1 minute or until you lose concentration (as if concentrating on a spell). The portal is circular, 5 to 20 feet in diameter (your choice).
-* **Planar Step (5 Sorcery Points):** Links your current location to another familiar spot on the same plane of existence.
-* **Planar Breach (7 Sorcery Points):** Links to a different plane of existence you have visited, or to a precisely described location on another plane to which you have a strong connection (e.g., via an item or creature from that plane). This functions similarly to the *Plane Shift* spell's planar travel option, but the portal remains open for 1 minute for two-way travel, and you do not need a tuning fork attuned to the destination plane if you have visited it or have the strong connection. When you create the portal, you and up to eight willing creatures of your choice that are within 30 feet of you can pass through it.
-Once you create a portal using either option of this feature, you cannot do so again until you finish a long rest.
+*(Your innate magic stems from a direct connection to an echo of the Valheru – the Dragon Lords, the First Beings, who rode the winds of creation and whose thoughts were fire and whose will was law. This power, ancient and terrible, now whispers in your soul, a fragment of their untamed might seeking expression through you. It is a power that demands dominance, that scoffs at the fleeting concerns of mortals, and that can reshape reality itself. To wield it is to touch the primal chaos of the dawn, to feel the beat of dragon wings in your heart, and to know the terrible freedom of near-limitless potential – and its equally terrifying cost.)*
 
 ---
+### Level 1: Valheru Legacy Spells
+The primal magic of the Valheru grants you access to certain spells. These spells count as sorcerer spells for you, but they don’t count against the number of sorcerer spells you know. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can also choose the new spell from the Draconic Legacy Spells table if it is of a level for which you have spell slots.
+
+| Spell Level | Spells                                     |
+| :---------- | :----------------------------------------- |
+| 1st         | *Cause Fear, Command* |
+| 2nd         | *Dragon's Breath, Shatter* |
+| 3rd         | *Fear, Fly* |
+| 4th         | *Dominate Beast, Elemental Bane* |
+| 5th         | *Cone of Cold, Dominate Person* |
+
+---
+### Level 1: Echo of the Dragon Lords
+At 1st level, the ancient power within you manifests in subtle yet potent ways:
+
+* **Draconic Speech:** You learn to speak, read, and write Draconic.
+* **Elemental Affinity:** Choose one damage type when you gain this feature: acid, cold, fire, lightning, or thunder. When you cast a sorcerer spell that deals damage of the chosen type, you can add your Charisma modifier to one damage roll of that spell.
+* **Valheru Presence:** You gain proficiency in the **Intimidation** skill. As a bonus action, you can briefly channel your Valheru heritage, manifesting a visible aura of your patron's overwhelming presence for 1 minute (this might appear as shimmering, heatless flames around you, a subtle draconic shadow briefly overlaying your own, or your eyes glowing with an ancient, golden light). For the duration, you have advantage on Charisma (Intimidation) checks. Additionally, once while this aura is active, when a creature you can see within 30 feet of you makes an attack roll against you or an ally within 5 feet of you, you can use your reaction to impose disadvantage on that roll as your aura flares menacingly.
+    You can activate this Valheru Presence a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+---
+### Level 6: Wings of the First Sky
+At 6th level, you can manifest the spectral pinions of a true Dragon Lord. As a bonus action, you can cause immense, dragon-like wings formed of swirling elemental energy (matching your Elemental Affinity type, or pure force) to erupt from your back. These wings last for 10 minutes or until you dismiss them as a bonus action. While the wings are present:
+
+* You have a **flying speed of 40 feet**.
+* Your **Elemental Affinity** feature now applies to all damage rolls of spells you cast that deal your chosen damage type, not just one damage roll per spell.
+* **Valheru Fury:** When you cast a sorcerer spell of 1st level or higher that deals damage, you can expend 1 sorcery point to have one damage roll of the spell deal additional damage of your Elemental Affinity type equal to your sorcerer level.
+
+Once you manifest these wings, you can't do so again until you finish a long rest. You can also expend 3 sorcery points to use this feature again.
+
+---
+### Level 14: Ancient Resilience & Overwhelming Will
+At 14th level, the ancient power within you fortifies you against harm and amplifies your ability to command.
+
+* **Ancient Resilience:** You gain resistance to your chosen Elemental Affinity damage type. Additionally, you are immune to being magically put to sleep, and you have advantage on saving throws against being paralyzed or stunned.
+* **Overwhelming Will:** When a creature you can see within 60 feet of you targets you or an ally within 30 feet of you with an attack or a harmful spell, you can use your reaction and spend 2 sorcery points to force that creature to make a Wisdom saving throw against your sorcerer spell save DC. On a failed save, the creature must choose a new target for its attack or spell (the new target cannot be you or the original ally if they were the target), or the attack or spell fails if it cannot choose a new target or if there are no other valid targets. If the original effect targeted an area, you cannot change its point of origin, but creatures you choose within the area (up to your Charisma modifier, minimum of one) have advantage on their saving throws against it.
+
+---
+### Level 18: Bond of the Dragon Lord
+At 18th level, your Valheru echo resonates with the true dragons, allowing you to forge a temporary bond of command with one such creature. As an action, you can expend 7 sorcery points and touch a willing **Dragon** (of a type no higher than CR 15, that has an Intelligence of 6 or more, and that can understand a language you speak, such as a Young Red Dragon or an Adult Brass Dragon, subject to DM approval for availability and willingness).
+
+For the next hour, you forge a telepathic bond with this dragon. While bonded, you and the dragon can communicate telepathically as long as you are on the same plane of existence. As a bonus action on your turn, you can give the dragon a general command (such as "Attack that creature," "Fly us there," "Guard this pass"). The dragon will obey your commands to the best of its ability for the duration, though it retains its own personality and might interpret commands with a degree of draconic cunning or pride. The dragon acts on its own initiative.
+
+If the dragon is reduced to 0 hit points, the bond ends, and it either dies or returns to its origin (DM's choice). The bond also ends if you use this feature again.
+
+After the bond ends, you cannot use this feature again for 7 days, unless you perform a special hour-long ritual during a long rest, appealing to your Valheru patron and expending a 9th-level spell slot (or an additional 7 sorcery points if you do not have a 9th-level slot) to regain its use sooner.
+
+---
+
 ### ***WARLOCK***
 ### **Warlock Patron: The Forgotten**
 
