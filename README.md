@@ -35,7 +35,7 @@ Midkemia is a world where magic is real but not always commonplace for the avera
 ---
 ## Deities of Midkemia
 
-The Pantheon of Midkemia is diverse, with gods representing many aspects of life, death, and the cosmos. While characters may worship any deity appropriate to their background, the following are particularly relevant to the themes and potential conflicts within "The Serpent's Coil."
+The Pantheon of Midkemia is diverse, with gods representing many aspects of life, death, and the cosmos. While characters may worship any deity appropriate to their background, the following are particularly relevant to the themes and potential conflicts within "The World of Midkemia"
 
 * **Ishap, God of Balance:** The Unseen Fulcrum, Ishap represents the great balance between all forces – light and dark, order and chaos, creation and destruction. His followers are often quiet philosophers, mediators, or guardians who strive to prevent any single power from gaining ultimate ascendancy. His temples are places of serene contemplation.
 * **Astalon, God of Justice and Retribution:** The Just God, Astalon embodies righteous law, unwavering judgment, and swift retribution against the guilty. His paladins and priests are often grim, determined figures who hunt down criminals, expose corruption, and ensure that all, regardless of station, face the consequences of their actions.
@@ -49,7 +49,7 @@ The Pantheon of Midkemia is diverse, with gods representing many aspects of life
 ---
 ## Creating Your Character
 
-The following sections provide custom Backgrounds, Feats, and Subclasses designed to help you create a character deeply rooted in the world of Midkemia and ready to face the challenges of "The Serpent's Coil." Discuss these options with your Dungeon Master.
+The following sections provide custom Backgrounds, Feats, and Subclasses designed to help you create a character deeply rooted in the world of Midkemia and ready to face the challenges of "The World of Midkemia" Discuss these options with your Dungeon Master.
 
 ---
 ## Custom Backgrounds
