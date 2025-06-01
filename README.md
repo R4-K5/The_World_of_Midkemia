@@ -297,8 +297,8 @@ Once you use either of these Proclamations, you cannot use this feature again un
 | 1st          | *Protection from Evil and Good, Sanctuary* |
 | 3rd          | *Calm Emotions, Zone of Truth* |
 | 5th          | *Counterspell, Dispel Magic* |
-| 7th          | *Aura of Purity, Divination* |
-| 9th          | *Circle of Power, Hold Monster* |
+| 7th          | *Banishment, Divination* |
+| 9th          | *Dispel Evil and Good, Hold Monster* |
 
 **Level 1: Bonus Proficiencies**
 When you choose this domain at 1st level, you gain proficiency with heavy armor and proficiency in one of the following skills of your choice: Insight, Investigation, or Persuasion.
@@ -308,15 +308,22 @@ At 1st level, when a creature you can see within 30 feet of you makes an attack 
 You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 **Level 2: Channel Divinity: Tip the Scales**
-Starting at 2nd level, you can use your Channel Divinity to momentarily shift the balance of fate.
-As an action, you present your holy symbol and choose one creature you can see within 60 feet of you. For the next minute, or until you lose your concentration (as if concentrating on a spell), whenever that creature makes an attack roll or a saving throw, you can use your reaction to grant a bonus or a penalty (your choice at the time of the reaction) to that single roll equal to your Wisdom modifier (minimum of +1 or -1). You must declare you are using this reaction *before* the outcome of the d20 roll is known.
+Starting at 2nd level, 
+You can use your Channel Divinity to momentarily shift the balance of fate.
+
+As an reaction, you may present your holy symbol and choose one creature you can see within 60 feet of you that creature makes an attack roll or a saving throw, you can use to grant a bonus or a penalty (your choice at the time of the reaction) to that single roll equal to your Wisdom modifier (minimum of +1 or -1) + Proficiency. You must declare you are using this reaction before the outcome of the d20 roll is known.
 
 **Level 6: Aegis of Impartiality**
 Starting at 6th level, when you or a creature within 30 feet of you takes damage from a spell or attack originating from an aberration, celestial, elemental, fey, fiend, or undead, you can use your reaction to reduce that damage from that specific triggering instance by an amount equal to 1d10 + your cleric level.
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-**Level 8: Potent Spellcasting**
-Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+**Level 8: Retributive Balance**
+Starting at 8th level, your divine connection to Balance/Ishap allows you to directly intervene when the scales of fortune tip too dramatically. When a creature you can see within 60 feet of you experiences an extreme of luck, you can use your reaction to invoke divine balance:
+
+* When an enemy scores a critical hit against you or an ally: The attacking creature immediately takes psychic damage equal to your Wisdom modifier + half your cleric level (rounded down). Additionally, one ally of your choice (which can be yourself) within 30 feet of the critically hit target gains temporary hit points equal to the psychic damage dealt to the attacker. These temporary hit points last for 1 minute.
+* When you or an ally rolls a 1 on a d20 for an attack roll, ability check, or saving throw: You can allow that creature to reroll the die. They must use the new roll. Additionally, you can choose one enemy creature you can see within 30 feet of the creature that rerolled; that enemy takes psychic damage equal to your Wisdom modifier as the universe subtly corrects the imbalance.
+
+You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 **Level 17: Unwavering Center**
 At 17th level, you become a beacon of absolute balance, incredibly difficult to sway or harm through extreme forces. You gain the following benefits:
@@ -353,7 +360,11 @@ Starting at 6th level, when you or a friendly creature within 30 feet of you is 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 **Level 8: Divine Strike**
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 cold or necrotic damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d8.
+Starting at 8th level, your divine connection to the cycle of life and death allows you to intervene at critical moments, guiding souls or chastising those that linger unnaturally. You gain one of the following intervention options, which you can use once per turn.
+
+* **Soothing Passage:** When a humanoid creature you can see within 60 feet of you drops to 0 hit points, you can use your reaction to immediately stabilize them and grant them temporary hit points equal to your Cleric level + your Wisdom modifier. These temporary hit points last for 1 minute. The soul of the creature is also warded, granting it advantage on its next death saving throw if it should fall unconscious again within the next hour.
+
+* **Weight of Mortality:** When you or an ally hits an undead creature or a fiend with an attack, you can use your reaction to imbue the strike with Lims-Kragma's chilling authority. The target takes an additional 2d8 necrotic or cold damage (your choice), and it must succeed on a Wisdom saving throw against your spell save DC or have its speed halved until the end of its next turn as the unnatural energies sustaining it falter.
 
 **Level 17: Shepherd of the Lost Gate**
 At 17th level, you become a true conduit between life and death.
