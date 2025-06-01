@@ -383,10 +383,11 @@ When you choose this circle at 2nd level, you are blessed by the ancient spirits
 * **Child of the Sentinel Trees:** You gain proficiency in the **Survival** skill. Your innate connection to the ancient trees grants you an intuitive understanding of woodland environments. You can move through nonmagical difficult terrain made of plants (such as thickets, overgrown areas, grasping vines, or dense tree roots) without expending extra movement. Additionally, you have advantage on saving throws against being magically charmed or frightened by fey creatures or plant creatures, as the ancient woods shield your mind.
 
 **Level 2: Heartwood Ward (Revised for Shield Use)**
-Also at 2nd level, you can channel the protective essence of ancient wood. As a bonus action, you can expend one use of your Wild Shape feature to weave vibrant, living woody fibers around yourself or one willing creature you can see within 30 feet.
-The target gains temporary hit points equal to **five times your proficiency bonus**.
-While these temporary hit points last, the target's skin takes on a tough, bark-like resilience. If the target is not wearing armor, its base Armor Class becomes **10 + your proficiency bonus + your Wisdom modifier**. This base Armor Class cannot be lower than 13. The target can benefit from wielding a shield in addition to this AC calculation if they are proficient with shields (adding the shield's normal AC bonus). If the target is wearing armor, they do not gain this AC calculation benefit but still receive the temporary hit points.
-The temporary hit points and any AC benefit from this feature last for 1 hour or until the temporary hit points are depleted.
+Also at 2nd level, you can channel the protective essence of ancient wood. 
+* Calling upon the ancient pacts, you draw upon the enduring spirit of the sentinel trees. As you expend your primal connection to the wild, vibrant green and brown energies swirl around you, coalescing into a living bulwark of gnarled roots and iron-hard bark, a testament to nature's unyielding defense.
+*Also at 2nd level, your deep bond with the sentinel trees allows you to manifest their ancient resilience. As a bonus action, you can expend one use of your Wild Shape feature to invoke this ward upon yourself.
+*While this ward is active, if you are not wearing metal armor, your skin takes on a tough, bark-like resilience. Your base Armor Class becomes 10 + your proficiency bonus + your Wisdom modifier. This base Armor Class cannot be lower than 13. You can benefit from wielding a nonmetal shield in addition to this AC calculation if you are proficient with shields (adding the shield's normal AC bonus).
+*The ward lasts for a number of hours equal to half your druid level (rounded down, minimum of 1 hour), or until you use your Wild Shape again, are incapacitated, or you choose to dismiss the effect (no action required).
 
 **Level 6: Voice of the Whispering Leaves**
 At 6th level, your bond with the plant kingdom deepens.
@@ -396,7 +397,7 @@ At 6th level, your bond with the plant kingdom deepens.
 **Level 10: Ironwood Form**
 Starting at 10th level, your body can temporarily take on the unyielding hardness and resilience of ancient ironwood.
 When you are hit by an attack, or when you are forced to make a Dexterity saving throw to take only half damage from an effect, you can use your reaction to gain resistance to bludgeoning, piercing, and slashing damage (including magical forms of that damage) until the start of your next turn. While this resistance is active, your movement speed is reduced by 10 feet as your form becomes heavy and rigid.
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a short rest.
 
 **Level 14: Aspect of the Forest Lord/Lady**
 At 14th level, you can fully embody the ancient might and majesty of the primordial forest. You can expend two uses of your Wild Shape at the same time to transform into an Aspect of the Ancient Heartwood for 10 minutes (or until you lose concentration, as if concentrating on a spell).
