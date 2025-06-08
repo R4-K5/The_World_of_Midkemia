@@ -636,9 +636,13 @@ At 6th level, you can manifest the spectral pinions of a true Dragon Lord. As a 
 
 * You have a **flying speed of 40 feet**.
 * Your **Elemental Affinity** feature now applies to all damage rolls of spells you cast that deal your chosen damage type, not just one damage roll per spell.
-* **Valheru Fury:** When you cast a sorcerer spell of 1st level or higher that deals damage, you can expend 1 sorcery point to have one damage roll of the spell deal additional damage of your Elemental Affinity type equal to your sorcerer level.
 
 Once you manifest these wings, you can't do so again until you finish a long rest. You can also expend 3 sorcery points to use this feature again.
+
+**Primal Spellcasting**
+Additionally, when you cast a spell that deals your chosen elemental damage, you can spend sorcery points to augment it in one of the following ways:
+**Overcome Resistance (spend 1 sorcery point)**: The spell ignores any resistance to its damage type.
+**Breach Immunity (spend 2 sorcery points)**: The spell treats any immunity to its damage type as if it were resistance instead.
 
 ---
 ### Level 14: Ancient Resilience & Overwhelming Will
@@ -649,13 +653,13 @@ At 14th level, the ancient power within you fortifies you against harm and ampli
 
 ---
 ### Level 18: Bond of the Dragon Lord
-At 18th level, your Valheru echo resonates with the true dragons, allowing you to forge a temporary bond of command with one such creature. As an action, you can expend 7 sorcery points and touch a willing **Dragon** (of a type no higher than CR 15, that has an Intelligence of 6 or more, and that can understand a language you speak, such as a Young Red Dragon or an Adult Brass Dragon, subject to DM approval for availability and willingness).
+At 18th level, your Valheru echo resonates with the true dragons, allowing you to forge a temporary bond of command with one such creature. As an action, you can expend 7 sorcery points and you reach out with your senses for a willing **Dragon** (of a type no higher than CR 21, that has an Intelligence of 6 or more, and that can understand a language you speak, such as a **Young Red Dragon** or an **Ancient Copper Dragon**, subject to DM approval for availability and willingness) to answer your call telepathically.
 
-For the next hour, you forge a telepathic bond with this dragon. While bonded, you and the dragon can communicate telepathically as long as you are on the same plane of existence. As a bonus action on your turn, you can give the dragon a general command (such as "Attack that creature," "Fly us there," "Guard this pass"). The dragon will obey your commands to the best of its ability for the duration, though it retains its own personality and might interpret commands with a degree of draconic cunning or pride. The dragon acts on its own initiative.
+For the next 24 hours, you forge a telepathic bond with this dragon. While bonded, you and the dragon can communicate telepathically as long as you are on the same plane of existence. As a bonus action on your turn, you can give the dragon a general command (such as "Attack that creature," "Fly us there," "Guard this pass"). The dragon will obey your commands to the best of its ability for the duration, though it retains its own personality and might interpret commands with a degree of draconic cunning or pride. The dragon acts on its own initiative.
 
 If the dragon is reduced to 0 hit points, the bond ends, and it either dies or returns to its origin (DM's choice). The bond also ends if you use this feature again.
 
-After the bond ends, you cannot use this feature again for 7 days, unless you perform a special hour-long ritual during a long rest, appealing to your Valheru patron and expending a 9th-level spell slot (or an additional 7 sorcery points if you do not have a 9th-level slot) to regain its use sooner.
+After the bond ends, you cannot use this feature again for 7 days, unless you perform a special ritual during a long rest and spend 7 sorcery points that you will not have the following day, to regain its use sooner.
 
 ---
 
@@ -707,7 +711,9 @@ Starting at 14th level:
 ---
 ### ***WIZARD***
 ### **Wizard Arcane Tradition: Tradition of the Loom**
-*(Disciples of the Tradition of the Loom see the Weave of magic not as a chaotic storm, but as an infinite array of shimmering threads...)*
+**Disciples of this tradition see the weave of magic not as a force to be commanded, but as an infinite tapestry to be woven with patience and understanding. They are arcane artists whose spells are noted for their resilience and ethereal beauty, often confounding those who rely on brute force.**
+
+*The Elves, the Eledhel, have always known that magic is not merely a raw force to be brutally commanded, but a symphony to be conducted with grace, a vast and intricate tapestry to be woven with patience and profound understanding. Disciples of the Tradition of the Loom see the Weave of magic not as a chaotic storm of energies, but as an infinite array of shimmering, vibrant threads – threads of light and shadow, of dream and reality, of past, present, and infinite possibility. They are the Spell Weavers, artists of the arcane, who with wisdom passed down through millennia and an innate sensitivity to these subtle currents, pluck these threads, tie them in complex, harmonious knots, and weave them into spells of breathtaking illusion, subtle enchantment, and enduring, life-giving protection. Their magic is often beautiful, almost ethereal in its manifestation, yet it possesses a deep resilience and a deceptive potency that can confound those who rely solely on brute arcane force or flashy evocations. They are the quiet guardians of Elvandar's deepest magical secrets, the interpreters of the Song of the World as it manifests in the ever-shifting patterns of the Weave, their lives dedicated to mending its frays and adding new, luminous threads to its ancient, glorious design.*
 
 **Level 2: Initiate of the Loom**
 Beginning when you select this tradition at 2nd level:
@@ -718,7 +724,7 @@ Beginning when you select this tradition at 2nd level:
 When you cast *Minor Illusion*, you can create both a sound and an image with a single casting. Additionally, you can use your bonus action on subsequent turns to alter the visual or auditory aspects of an active illusion spell you are concentrating on, provided the alteration is within the spell's original parameters (e.g., change the expression on an illusory face, shift the melody of an illusory sound, make an illusory object appear slightly worn or newer).
 
 **Level 6: Silken Ward of Elvandar**
-Starting at 6th level, as a reaction when you or a creature you can see within 60 feet is hit by an attack or fails a save against a spell or magical effect, you can expend one wizard spell slot to grant a bonus to the target's AC against that one attack or to their failed saving throw. The bonus is equal to **1 + the level of the spell slot expended**.
+Starting at 6th level, as a reaction when you or a creature you can see within 60 feet is hit by an attack or fails a save against a spell or magical effect, you can expend one wizard spell slot to grant a bonus to the target's AC against that one attack or to their failed saving throw. The bonus is equal to **half your proficeincy bonus (rounded down) + the level of the spell slot expended**.
 If this feature causes an attack to miss or a save to succeed against a spell targeting only that creature, the attacker or spellcaster must make a Wisdom saving throw against your wizard spell save DC. On a failed save, they are charmed by the protected creature (if the effect was an attack) or by you (if the effect was a spell) until the end of their next turn.
 
 **Level 10: Unravel Hostile Weavings**
